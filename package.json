@@ -1,0 +1,8 @@
+{
+  "name": "rn-appintro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jasper-zzq/rn-appintro.git",
+  "author": "Jasper <915982958zzq@gmail.com>",
+  "license": "MIT"
+}
